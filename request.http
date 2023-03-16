@@ -1,2 +1,2 @@
 ###
-GET https://rickandmortyapi.com/api/character/?name=rick
+GET https://rickandmortyapi.com/api/character/1/
