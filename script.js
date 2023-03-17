@@ -14,8 +14,6 @@ var userInput = $("input").val()
 $.get(`https://rickandmortyapi.com/api/character/?name=${userInput}`,async (data)=>{
 //    console.log(data.results)
 
-
-
 for (let i = 0; i < data.results.length; i++){
   
     let result = data.results[i]
