@@ -12,3 +12,6 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+.popover {
+    white-space: pre-wrap;
+}
